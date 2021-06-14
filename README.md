@@ -26,4 +26,4 @@
 
 ### Pomeranian
 
-<img src="/pom.jpg" height="100px"><img>
+[<img src="/pom.jpg" height="100px"><img>](https://www.instagram.com/jiffpom)
