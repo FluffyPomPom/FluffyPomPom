@@ -17,4 +17,4 @@
 
 ### Projects
 
-[`Squished!`](https://github.com/FluffyPomPom/Squished!) - Entry for js13kgames 2022
+[`Squished!`](https://github.com/FluffyPomPom/Squished) - Entry for js13kgames 2022
